@@ -1,4 +1,4 @@
 File3 is created!
 File is modified n1
 File has new line
-back to master
+merge
